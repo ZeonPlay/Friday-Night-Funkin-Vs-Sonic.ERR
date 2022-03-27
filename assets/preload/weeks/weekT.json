@@ -1,0 +1,40 @@
+{
+	"storyName": "Help Me!!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tails",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Extinction",
+			"tails",
+			[
+				146,
+				153,
+				95
+			]
+		],
+		[
+			"No Salvation",
+			"tails_dead",
+			[
+				146,
+				153,
+				95
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ""
+}
